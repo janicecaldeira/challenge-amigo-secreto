@@ -14,6 +14,10 @@ Neste projeto você pode adicionar nomes de amigos e realizar o sorteio de manei
 1. **Adicionar amigos**: Digite o nome de um amigo no campo de entrada e clique em "Adicionar". O nome será adicionado à lista de amigos.
 2. **Sortear amigo**: Quando estiver pronto para fazer o sorteio, clique no botão "Sortear Amigo". O nome de um amigo será sorteado aleatoriamente e exibido na tela.
 
+## Link do Projeto
+
+Você pode acessar o projeto publicado no seguinte link: [Amigo Secreto](https://janicecaldeira.github.io/challenge-amigo-secreto/)
+
 ## Tecnologias Utilizadas
 
 - HTML
